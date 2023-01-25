@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontFamily : {
         manrope: ["Manrope", "sans-serif"]
+      },
+      backgroundImage: {
+        'hero-pattern': "linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%)"
       }
     },
     screens: {

@@ -6,6 +6,7 @@
   .custom-bg-gradient-primary {
     background: linear-gradient(270deg, #ff0000 0%, #ff8938 100%);
   }
+
   .custom-bg-gradient-card-feature {
     background: linear-gradient(
       180deg,
